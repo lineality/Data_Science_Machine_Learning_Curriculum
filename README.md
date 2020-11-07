@@ -4,7 +4,7 @@ Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learn
 note: https://www.iadss.org/educational-programs-map
 
 
-
+General Curriculum Guidelines and Standards
 
 Curriculum Tools for Educators
 
