@@ -17,3 +17,32 @@ Curriculum Content Maps
 Curriculum Teaching Method Standards
 
 Certification
+
+...
+
+Pre-requisite skills:
+		- github
+		- html
+		- python
+		- functional programming
+		- terminals
+		- notebooks
+		- editors
+		- IDE/IDK
+		- Environment Management
+		- Posix & Bash
+
+
+- DS Workflow
+
+- Portfolio 
+
+- Linear Models
+
+- Deep Learning
+
+- Practical Programming
+
+- Computer Science Principles
+
+- History of Computation
