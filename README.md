@@ -13,9 +13,7 @@ Areas Overall
 - Certification
 - DS ML Etc Specialization Areas
 
-...
-
-Pre-requisite skills:
+Pre-requisite skills
 - github
 - html
 - python
@@ -29,7 +27,8 @@ Pre-requisite skills:
 
 General DS Curriculum Areas (Not Specialist Skills)
 - Hypothesis Testing
-- DS Workflow
+- Math, Statistics/Econometrics, Probability, Information Theory
+- DS Etc. Workflow
 - Portfolio 
 - Linear Models
 - Deep Learning
