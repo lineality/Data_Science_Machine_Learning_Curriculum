@@ -27,17 +27,14 @@ Pre-requisite skills:
 - Environment Management
 - Posix & Bash
 
-
+General DS Curriculum Areas (Not Specialist Skills)
+- Hypothesis Testing
 - DS Workflow
-
 - Portfolio 
-
 - Linear Models
-
 - Deep Learning
-
 - Practical Programming
-
 - Computer Science Principles
-
 - History of Computation
+- History of "Data Science" AI etc.
+- Application Frameworks (Six Sigma, Lean, Agile, SCRUM)
