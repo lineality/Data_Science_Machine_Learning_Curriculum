@@ -3,7 +3,7 @@ Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learn
 
 note: https://www.iadss.org/educational-programs-map
 
-Areas Overall
+# Areas Overall
 - General Curriculum Guidelines and Standards
 - Curriculum Tools for Educators
 - Curriculum Tools for Students
@@ -13,7 +13,7 @@ Areas Overall
 - Certification
 - DS ML Etc Specialization Areas
 
-Pre-requisite skills
+## Pre-requisite skills
 - github
 - html
 - python
@@ -25,7 +25,7 @@ Pre-requisite skills
 - Environment Management
 - Posix & Bash
 
-General DS Curriculum Areas (Not Specialist Skills)
+## General DS Curriculum Areas (Not Specialist Skills)
 - Hypothesis Testing
 - Math, Statistics/Econometrics, Probability, Information Theory
 - DS Etc. Workflow
@@ -37,3 +37,16 @@ General DS Curriculum Areas (Not Specialist Skills)
 - History of Computation
 - History of "Data Science" AI etc.
 - Application Frameworks (Six Sigma, Lean, Agile, SCRUM)
+
+## Data Science / Machine Learning Disambiguation  Specialization Areas
+- Data Engineering
+- "Data Mining"
+- Data Analysis
+- Machine Learning Engineering
+- Software Engineering
+- Linear Specific Machine Learning
+
+## Domain Specialization Areas
+- Biology / Medical (Genetics)
+- Banking & Finance
+- 
