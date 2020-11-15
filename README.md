@@ -15,7 +15,7 @@ note: https://www.iadss.org/educational-programs-map
 
 ## Pre-requisite skills
 - github
-- html
+(- html)
 - linear algebra
 - markdown
 - python
@@ -52,4 +52,9 @@ note: https://www.iadss.org/educational-programs-map
 ## Domain Specialization Areas
 - Biology / Medical (Genetics)
 - Banking & Finance
-- 
+
+...
+
+SQL
+
+data engineering vs. analytics vs. AI models
