@@ -16,6 +16,8 @@ note: https://www.iadss.org/educational-programs-map
 ## Pre-requisite skills
 - github
 - html
+- linear algebra
+- markdown
 - python
 - functional programming
 - terminals
@@ -24,6 +26,7 @@ note: https://www.iadss.org/educational-programs-map
 - IDE/IDK
 - Environment Management
 - Posix & Bash
+- networks
 
 ## General DS Curriculum Areas (Not Specialist Skills)
 - Hypothesis Testing
