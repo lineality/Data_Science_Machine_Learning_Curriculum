@@ -55,6 +55,8 @@ note: https://www.iadss.org/educational-programs-map
 
 ...
 
-SQL
+## Specialized Skills
+- SQL
+- data engineering vs. analytics vs. AI models
 
-data engineering vs. analytics vs. AI models
+
