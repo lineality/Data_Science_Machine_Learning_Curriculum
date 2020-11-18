@@ -15,7 +15,7 @@ note: https://www.iadss.org/educational-programs-map
 
 ## Pre-requisite skills
 - github
-(- html)
+( - html )
 - linear algebra
 - markdown
 - python
