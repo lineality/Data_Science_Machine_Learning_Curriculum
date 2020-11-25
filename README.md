@@ -2,7 +2,7 @@
 Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learning
 
 note: https://www.iadss.org/educational-programs-map
-
+ 
 # Areas Overall
 - General Curriculum Guidelines and Standards
 - Curriculum Tools for Educators
@@ -12,7 +12,7 @@ note: https://www.iadss.org/educational-programs-map
 - Curriculum Teaching Method Standards
 - Certification
 - DS ML Etc Specialization Areas
-
+ 
 ## Pre-requisite skills
 - github
 - linear algebra
@@ -38,7 +38,7 @@ note: https://www.iadss.org/educational-programs-map
 - Computer Science Principles
 - History of Computation
 - History of "Data Science" AI etc.
-- Application Frameworks (Six Sigma, Lean, Agile, SCRUM)
+- Frameworks (Six Sigma, Lean, Agile, SCRUM)
 
 ## Data Science / Machine Learning Disambiguation  Specialization Areas
 - Data Engineering
