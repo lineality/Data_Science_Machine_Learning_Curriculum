@@ -2,7 +2,7 @@
 Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learning
 
 note: https://www.iadss.org/educational-programs-map
- 
+
 # Areas Overall
 - General Curriculum Guidelines and Standards
 - Curriculum Tools for Educators
@@ -12,9 +12,10 @@ note: https://www.iadss.org/educational-programs-map
 - Curriculum Teaching Method Standards
 - Certification
 - DS ML Etc Specialization Areas
- 
+
 ## Pre-requisite skills
 - github
+(- html)
 - linear algebra
 - markdown
 - python
@@ -38,15 +39,22 @@ note: https://www.iadss.org/educational-programs-map
 - Computer Science Principles
 - History of Computation
 - History of "Data Science" AI etc.
-- Frameworks (Six Sigma, Lean, Agile, SCRUM)
+- Application Frameworks (Six Sigma, Lean, Agile, SCRUM)
 
 ## Data Science / Machine Learning Disambiguation  Specialization Areas
-- Data Engineering
-- "Data Mining"
-- Data Analysis
-- Machine Learning Engineering
+https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69ea37cdd2c 
+#### (Note: Generalization is still valued, especially in small startups and for Agile-using-generalists(which is the original Agile system))
+#### Main Three Branches
+- 1. Data Engineering / Big Data Pipeline Engineering
+- 2. Data Analysis / Data Analytics
+- 3. Machine Learning Engineering
+
+- SQL & Databases
+- "Data Mining" (seems to be an older pre"DS" term)
 - Software Engineering
 - Linear Specific Machine Learning
+- Statistical Analysis & Hypothesis Testing
+- Neural Networks
 
 ## Domain Specialization Areas
 - Biology / Medical (Genetics)
