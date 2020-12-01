@@ -1,7 +1,7 @@
 # lineality-Data_Science_Machine_Learning_Curriculum
 Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learning
 
-note: https://www.iadss.org/educational-programs-map
+Note: DS standardization effort  https://www.iadss.org/educational-programs-map
 
 # Areas Overall
 - General Curriculum Guidelines and Standards
