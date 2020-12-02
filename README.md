@@ -44,11 +44,13 @@ Note: DS standardization effort  https://www.iadss.org/educational-programs-map
 ## Specialization Areas: Data Science Disambiguation 
 https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69ea37cdd2c 
 #### (Note: Generalization is still valued, especially in small startups and for Agile-using-generalists(which is the original Agile system))
-#### Main Three Branches
+
+#### Main Three Specialization Branches of DS (Data Science)
 - 1. Data Engineering / Big Data Pipeline Engineering
 - 2. Data Analysis / Data Analytics
 - 3. Machine Learning Engineering
 
+#### Other Specializations
 - SQL & Databases
 - "Data Mining" (seems to be an older pre"DS" term)
 - Software Engineering
