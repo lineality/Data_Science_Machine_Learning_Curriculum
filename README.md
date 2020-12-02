@@ -41,7 +41,7 @@ Note: DS standardization effort  https://www.iadss.org/educational-programs-map
 - History of "Data Science" AI etc.
 - Application Frameworks (Six Sigma, Lean, Agile, SCRUM)
 
-## Data Science / Machine Learning Disambiguation  Specialization Areas
+## Specialization Areas: Data Science Disambiguation 
 https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69ea37cdd2c 
 #### (Note: Generalization is still valued, especially in small startups and for Agile-using-generalists(which is the original Agile system))
 #### Main Three Branches
@@ -56,14 +56,21 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Statistical Analysis & Hypothesis Testing
 - Neural Networks
 
-## Domain Specialization Areas
+## Domain Knowledge / Domain Specialization Areas
 - Biology / Medical (Genetics)
 - Banking & Finance
 
-...
 
 ## Specialized Skills
 - SQL
 - data engineering vs. analytics vs. AI models
 
+## General Skills
+- Project Management
+- Meetings
+- Presentations
+- Reports
+- Emails
+- Office Suites
+- Databases
 
