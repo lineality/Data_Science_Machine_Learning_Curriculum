@@ -4,7 +4,7 @@ Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learn
 Note: DS standardization effort  https://www.iadss.org/educational-programs-map
 
 # Areas Overall
-- General Curriculum Guidelines and Standards
+- General Curriculum Guidelines & Standards
 - Curriculum Tools for Educators
 - Curriculum Tools for Students
 - Curriculum Tools for Employers
