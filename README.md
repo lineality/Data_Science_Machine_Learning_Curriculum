@@ -80,3 +80,4 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Office Suites
 - Databases
 
+## History of Data Science & AI
