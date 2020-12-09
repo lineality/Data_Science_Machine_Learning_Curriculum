@@ -4,7 +4,7 @@ Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learn
 Note: DS standardization effort  https://www.iadss.org/educational-programs-map
 
 # Areas Overall
-- General Curriculum Guidelines & Standards
+- General Curriculum Guidelines and Standards
 - Curriculum Tools for Educators
 - Curriculum Tools for Students
 - Curriculum Tools for Employers
@@ -15,18 +15,20 @@ Note: DS standardization effort  https://www.iadss.org/educational-programs-map
 
 ## Pre-requisite skills
 - github
-(- html)
+- html
 - linear algebra
-- markdown
-- python
+- markdown (e.g. text display in github)
+- python (python3)
 - functional programming
-- terminals
-- notebooks
-- editors
-- IDE/IDK
+- terminals (linux/posix/unix/MacOS)
+- "Notebooks" (Jupyter Notebooks, Colab Notebooks, For: python, scala)
+- text editors
+- Code Development Environments / Kits: IDE/IDK
 - Environment Management
-- Posix & Bash
-- networks
+- Command line Process: Bash etc & Unix/Posix
+- Networks
+- Deployment
+- Dashboarding
 
 ## General DS Curriculum Areas (Not Specialist Skills)
 - Hypothesis Testing
