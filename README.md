@@ -1,7 +1,10 @@
 # Data_Science_Machine_Learning_Curriculum
 Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learning
 
-Note: DS standardization effort  https://www.iadss.org/educational-programs-map
+#### Note: DS standardization effort  https://www.iadss.org/educational-programs-map
+
+## Background Reading:
+https://docs.google.com/document/d/1dDF40M5JjjrBsYYQbJplz3M738ktQBBYyNa6FXhzNFU/edit?usp=sharing
 
 # Areas Overall
 - General Curriculum Guidelines and Standards
