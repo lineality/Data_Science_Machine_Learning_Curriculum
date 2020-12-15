@@ -67,7 +67,7 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 ## Domain Knowledge / Domain Specialization Areas
 - Biology / Medical (Genetics)
 - Banking & Finance
-- 
+
 
 ## Specialized Skills
 - SQL
