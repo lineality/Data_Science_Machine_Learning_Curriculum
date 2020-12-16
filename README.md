@@ -45,7 +45,8 @@ https://docs.google.com/document/d/1dDF40M5JjjrBsYYQbJplz3M738ktQBBYyNa6FXhzNFU/
 - History of Computation
 - History of "Data Science" AI etc.
 - Application Frameworks (Six Sigma, Lean, Agile, SCRUM)
-- Biological Neurons, Neural Networks & Plasticity 
+- Interdisciplinary Studies: Biological Neurons, Neural Networks & Plasticity 
+- Presentation and Blogging Skills
 
 ## Specialization Areas: Data Science Disambiguation 
 https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69ea37cdd2c 
