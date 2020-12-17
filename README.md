@@ -3,8 +3,20 @@ Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learn
 
 #### Note: DS standardization effort  https://www.iadss.org/educational-programs-map
 
-## Background Reading:
-https://docs.google.com/document/d/1dDF40M5JjjrBsYYQbJplz3M738ktQBBYyNa6FXhzNFU/edit?usp=sharing
+## Books in Particular
+Rebooting AI (Topic: Comparing AI model performance)
+by Gary Marcus, Ernest Davis, et al.
+https://www.amazon.com/Rebooting-AI-Building-Artificial-Intelligence/dp/052556604X
+
+Possible Minds: Twenty-Five Ways of Looking at AI (Topic: History & Future of AI)
+by John Brockman - editor, et al.
+https://www.amazon.com/Possible-Minds-audiobook/dp/B07MQX54TW/
+
+Artificial Intelligence: A Guide for Thinking Humans (Topic: History & Future of AI)
+by Melanie Mitchell  Pelican (October 15, 2019) https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/0241404827/
+
+## Background Reading List:
+https://docs.google.com/document/d/1dDF40M5JjjrBsYYQbJplz3M738ktQBBYyNa6FXhzNFU/edit?usp=sharing 
 
 # Areas Overall
 - General Curriculum Guidelines and Standards
