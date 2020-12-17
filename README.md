@@ -69,7 +69,6 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Biology / Medical (Genetics)
 - Banking & Finance
 
-
 ## Specialized Skills
 - SQL
 - various quasi-SQL (like HiveQL)
@@ -94,9 +93,6 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 
 ## Terms and Disambiguation: 
 #### AI, Deep Learning, Machine Learning, Statistical Learning, Business-Intelligence, Data Mining, Statistics, Data Analysis, Hypothesis or A/B Testing, Perceptrons, Neurons, Neural Networks, Hidden Layers
-
-
-...
 
 ## Deep Learning
 
