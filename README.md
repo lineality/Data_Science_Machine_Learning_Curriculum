@@ -85,4 +85,17 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Office Suites
 - Databases
 
-## History of Data Science & AI
+## History & Diversity of Data Science & AI
+- Cellular Automata
+- Genetic Algorithms
+- Expert Systems
+- Decision Trees
+- Ensemble Models
+
+## Terms and Disambiguation: AI, Deep Learning, Machine Learning, Statistical Learning, Business-Intelligence, Data Mining, Statistics, Data Analysis, Hypothesis or A/B Testing, Perceptrons, Neurons, Neural Networks, Hidden Layers
+
+
+...
+
+## Deep Learning
+
