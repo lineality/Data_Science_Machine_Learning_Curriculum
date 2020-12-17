@@ -15,6 +15,10 @@ https://www.amazon.com/Possible-Minds-audiobook/dp/B07MQX54TW/
 Artificial Intelligence: A Guide for Thinking Humans (Topic: History & Future of AI)
 by Melanie Mitchell  Pelican (October 15, 2019) https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/0241404827/
 
+Deep Learning (Adaptive Computation and Machine Learning series) (Deep Learning)
+by Ian Goodfellow , Yoshua Bengio , et al.
+https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/
+
 ## Background Reading List:
 https://docs.google.com/document/d/1dDF40M5JjjrBsYYQbJplz3M738ktQBBYyNa6FXhzNFU/edit?usp=sharing 
 
