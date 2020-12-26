@@ -119,5 +119,4 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Hyperparameters
 - Activation Functions
 
-
-## Challenges & The Future
+## 
