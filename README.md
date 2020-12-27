@@ -91,6 +91,16 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Various No-SQL
 - data engineering vs. analytics vs. AI models
 
+## ?
+- NLP
+- Computer Vision
+- Time Series (forecasting)
+- GIS
+- 
+
+## Big-Data Data-Science
+- Spark vs. Pandas
+
 ## General Skills
 - Project Management
 - Meetings
@@ -121,3 +131,4 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 
 ## Tests
 - SQuAD
+- 
