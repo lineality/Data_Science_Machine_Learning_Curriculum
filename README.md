@@ -68,6 +68,12 @@ https://docs.google.com/document/d/1dDF40M5JjjrBsYYQbJplz3M738ktQBBYyNa6FXhzNFU/
 https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69ea37cdd2c 
 #### (Note: Generalization is still valued, especially in small startups and for Agile-using-generalists(which is the original Agile system))
 
+## Programming Languages and Data Science
+- R (academic)
+- Python (general)
+- Spark (distributed)
+- C (robotics)
+
 #### Main Three Specialization Branches of DS (Data Science)
 - 1. Data Engineering / Big Data Pipeline Engineering
 - 2. Data Analysis / Data Analytics
@@ -90,13 +96,17 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - various quasi-SQL (like HiveQL)
 - Various No-SQL
 - data engineering vs. analytics vs. AI models
+- Spark
 
 ## ?
-- NLP
+- NLP https://docs.google.com/document/d/19v8jMx60QTWfyRkp6VThJeiSfXNWqadB50FQCzaAOVM/edit?usp=sharing 
 - Computer Vision
 - Time Series (forecasting)
 - GIS
 - 
+
+## Distributed Data Science 
+- Federated Learning
 
 ## Big-Data Data-Science
 - Spark vs. Pandas
