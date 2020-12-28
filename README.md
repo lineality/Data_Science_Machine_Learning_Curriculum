@@ -139,6 +139,11 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Hyperparameters
 - Activation Functions
 
-## Tests
+## Topics
+- Analogy
+- Geofencing 
+
+## AI Tests
+- Turing Tests
 - SQuAD
 - 
