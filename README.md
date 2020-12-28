@@ -4,10 +4,6 @@ Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learn
 #### Note: DS standardization effort  https://www.iadss.org/educational-programs-map
 
 ## Books in Particular
-Rebooting AI (Topic: Comparing AI model performance)
-by Gary Marcus, Ernest Davis, et al.
-https://www.amazon.com/Rebooting-AI-Building-Artificial-Intelligence/dp/052556604X
-
 Possible Minds: Twenty-Five Ways of Looking at AI (Topic: History & Future of AI)
 by John Brockman - editor, et al.
 https://www.amazon.com/Possible-Minds-audiobook/dp/B07MQX54TW/
@@ -18,6 +14,10 @@ by Melanie Mitchell  Pelican (October 15, 2019) https://www.amazon.com/Artificia
 Deep Learning (Adaptive Computation and Machine Learning series) (Deep Learning)
 by Ian Goodfellow , Yoshua Bengio , et al.
 https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/
+
+Rebooting AI (Topic: Comparing AI model performance)
+by Gary Marcus, Ernest Davis, et al.
+https://www.amazon.com/Rebooting-AI-Building-Artificial-Intelligence/dp/052556604X
 
 ## Background Reading List:
 https://docs.google.com/document/d/1dDF40M5JjjrBsYYQbJplz3M738ktQBBYyNa6FXhzNFU/edit?usp=sharing 
