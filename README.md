@@ -96,7 +96,6 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Computer Vision
 - Time Series (forecasting)
 - GIS
-- 
 
 ## Specialized Skills & Tools
 - SQL
