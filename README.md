@@ -91,14 +91,14 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Biology / Medical (Genetics)
 - Banking & Finance
 
-## Specialized Skills
+## Specialized Skills & Tools
 - SQL
 - various quasi-SQL (like HiveQL)
 - Various No-SQL
 - data engineering vs. analytics vs. AI models
 - Spark
 
-## ?
+## DS/ML Sub-Specialty/Focus Areas
 - NLP https://docs.google.com/document/d/19v8jMx60QTWfyRkp6VThJeiSfXNWqadB50FQCzaAOVM/edit?usp=sharing 
 - Computer Vision
 - Time Series (forecasting)
