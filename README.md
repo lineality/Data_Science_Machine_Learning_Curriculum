@@ -95,7 +95,9 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - NLP https://docs.google.com/document/d/19v8jMx60QTWfyRkp6VThJeiSfXNWqadB50FQCzaAOVM/edit?usp=sharing 
 - Computer Vision
 - Time Series (forecasting)
-- GIS
+- GIS (raster data)
+- Distributed Data Science (Federated Learning)
+- Big-Data Data-Science (Spark vs. Pandas)
 
 ## Specialized Skills & Tools
 - SQL
@@ -103,12 +105,6 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Various No-SQL
 - data engineering vs. analytics vs. AI models
 - Spark
-
-## Distributed Data Science 
-- Federated Learning
-
-## Big-Data Data-Science
-- Spark vs. Pandas
 
 ## General Skills
 - Project Management
