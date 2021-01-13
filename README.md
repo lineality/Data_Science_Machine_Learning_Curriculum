@@ -146,3 +146,6 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Turing Tests
 - SQuAD
 - 
+
+## Parametric & GLM vs. Nonparametric
+-
