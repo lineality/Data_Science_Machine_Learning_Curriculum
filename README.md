@@ -147,4 +147,6 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - SQuAD
 
 ## Parametric & GLM vs. Nonparametric
--
+- Parameters & Coefficients in Parametric Models
+- Logistic Regression
+- Linear Regression
