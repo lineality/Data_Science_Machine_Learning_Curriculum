@@ -150,3 +150,10 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Parameters & Coefficients in Parametric Models
 - Logistic Regression
 - Linear Regression
+- 
+
+
+## Linear Regression
+- Sum of Squared Residuals
+- R^2
+- P
