@@ -152,8 +152,11 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 - Linear Regression
 - 
 
-
 ## Linear Regression
 - Sum of Squared Residuals
 - R^2
 - P
+
+## Object Relationships
+-
+
