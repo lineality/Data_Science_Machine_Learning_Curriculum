@@ -19,6 +19,11 @@ Rebooting AI (Topic: Comparing AI model performance)
 by Gary Marcus, Ernest Davis, et al.
 https://www.amazon.com/Rebooting-AI-Building-Artificial-Intelligence/dp/052556604X
 
+An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics Book 103) (Standard Traditional Textbook for non-deep-learning 'machine learning') 
+by Gareth James , Daniela Witten , et al. | Jun 24, 2013
+https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370 
+
+
 ## Background Reading List:
 https://docs.google.com/document/d/1dDF40M5JjjrBsYYQbJplz3M738ktQBBYyNa6FXhzNFU/edit?usp=sharing 
 
@@ -124,7 +129,6 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 
 ## History Background Concepts
 - "Subsymbolic" AI
-
 
 ## Terms and Disambiguation: 
 #### AI, Deep Learning, Machine Learning, Statistical Learning, Business-Intelligence, Data Mining, Statistics, Data Analysis, Hypothesis or A/B Testing, Perceptrons, Neurons, Neural Networks, Hidden Layers
