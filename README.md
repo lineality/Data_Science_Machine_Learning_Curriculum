@@ -23,6 +23,8 @@ An Introduction to Statistical Learning: with Applications in R (Springer Texts 
 by Gareth James , Daniela Witten , et al. | Jun 24, 2013
 https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370 
 
+Chris Albon Machine Learning Flash Cards
+https://machinelearningflashcards.com/ 
 
 ## Background Reading List:
 https://docs.google.com/document/d/1dDF40M5JjjrBsYYQbJplz3M738ktQBBYyNa6FXhzNFU/edit?usp=sharing 
