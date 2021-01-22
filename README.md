@@ -3,6 +3,10 @@ Curriculum, Training, Certification, Hiring Guide for Data Science Machine Learn
 
 #### Note: DS standardization effort  https://www.iadss.org/educational-programs-map
 
+## Workflow
+#### Data Science Workflow is an areas that can potentially bring together pure vs. applied, general vs. specialized, and interdisciplinary topics in a pragmatic project based context for getting the scope of how a Data Science curriculum should be balanced: 
+- https://docs.google.com/document/d/1Ib_CNXrukZ29A5fVodpH2xaUfOmjjhzK6eesmxjuDsg/edit?usp=sharing
+
 ## Books in Particular
 Possible Minds: Twenty-Five Ways of Looking at AI (Topic: History & Future of AI)
 by John Brockman - editor, et al.
@@ -167,4 +171,5 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 
 ## Object Relationships
 -
+
 
