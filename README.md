@@ -175,3 +175,8 @@ https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69
 ## NLP
 https://docs.google.com/document/d/19v8jMx60QTWfyRkp6VThJeiSfXNWqadB50FQCzaAOVM/edit?usp=sharing 
 - Box Of Words
+
+## Data Science Concepts
+- Baseline
+- Dimensionality (e.g. the curse of dimensionality)
+- 
