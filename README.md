@@ -180,3 +180,7 @@ https://docs.google.com/document/d/19v8jMx60QTWfyRkp6VThJeiSfXNWqadB50FQCzaAOVM/
 - Baseline
 - Dimensionality (e.g. the curse of dimensionality)
 - 
+
+## Scores and Baselines
+- The Confusion Matrix
+
