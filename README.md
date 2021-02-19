@@ -184,3 +184,10 @@ https://docs.google.com/document/d/19v8jMx60QTWfyRkp6VThJeiSfXNWqadB50FQCzaAOVM/
 ## Scores and Baselines
 - The Confusion Matrix
 
+## Tools and Platforms
+- Weka http://old-www.cms.waikato.ac.nz/~ml/weka/
+- R studio
+- Anaconda
+- Spyder
+- Jupeter Lab
+- https://teachablemachine.withgoogle.com/ 
